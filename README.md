@@ -38,13 +38,6 @@ I build and ship real products end-to-end — multilingual, AI-powered tools, an
 | **[Morent](https://github.com/amaralazizy/morent)** | Car-rental web app with auth, booking & search | Next.js 15 · React 19 · Supabase · NextAuth · TS |
 | **[first-brain](https://github.com/amaralazizy/first-brain)** | ML-driven content recommendation system | TanStack Start · XGBoost · 
 
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amaralazizy&show_icons=true&hide_border=true&theme=transparent&hide=issues" alt="Amar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaralazizy&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-</p>
-
 ### Let's connect
 
 <p>
