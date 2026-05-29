@@ -36,7 +36,7 @@ I build and ship real products end-to-end — multilingual, AI-powered tools, an
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[Morent](https://github.com/amaralazizy/morent)** | Car-rental web app with auth, booking & search | Next.js 15 · React 19 · Supabase · NextAuth · TS |
-| **[first-brain](https://github.com/amaralazizy/first-brain)** | ML-driven content recommendation system | TanStack Start · XGBoost · 
+| **[first-brain](https://github.com/amaralazizy/first-brain)** | ML-driven content recommendation system | TanStack Start · XGBoost · TypeScript |
 
 ### Let's connect
 
