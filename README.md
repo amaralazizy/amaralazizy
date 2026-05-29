@@ -12,7 +12,7 @@
 
 ---
 
-I build and ship real products end-to-end — multilingual real-estate platforms, AI-powered tools, and full SaaS apps — with a focus on type-safe TypeScript, Postgres, and clean developer experience. I currently engineer at **HBS Real Estate**, and I'm increasingly drawn to the **Supabase / Postgres ecosystem** and open-source collaboration.
+I build and ship real products end-to-end — multilingual, AI-powered tools, and full SaaS apps — with a focus on type-safe TypeScript, Postgres, and clean developer experience. I currently engineer at **HBS Real Estate**, and I'm increasingly drawn to the **Supabase / Postgres ecosystem** and open-source collaboration.
 
 - 🔭 **Building:** production React/Next.js apps backed by Supabase & Postgres
 - 🌱 **Going deep on:** the Supabase stack (RLS, Edge Functions, Postgres internals) and AI app development
